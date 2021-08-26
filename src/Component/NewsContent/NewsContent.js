@@ -15,7 +15,7 @@ const NewsContent = ({newsArray, newsResult}) => {
 		
 		<hr />
 	<button className="loadmore">
-	Load More
+	Load
 	</button>
 	</Container>	
 		);}

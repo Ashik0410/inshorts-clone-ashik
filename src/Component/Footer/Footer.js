@@ -1,11 +1,11 @@
-import react from 'react';
+import React from 'react';
 import './Footer.css';
 import logo from './logo-foot.png'; 
 
 const Footer = () => {
 	return(
 	<div className="footer-main">
-	<img id="logo-foot" src= {logo} />
+	<img id="logo-foot" alt="" src= {logo} />
 	<div className="text">
 		inshorts clone by <a href="https://www.linkedin.com/signup" target="blank">Ashik Hameed</a>
 		<br />
