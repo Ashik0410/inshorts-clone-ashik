@@ -5,7 +5,7 @@ import {useState} from 'react';
 import Navbar from './Component/NavigationBar/Navbar';
 import axios from 'axios';
 import ApiKey from './Component/config';
-import Category from './Component/Category';
+// import Category from './Component/Category';
 import {useEffect} from 'react'; 
 import Footer from './Component/Footer/Footer'
 
